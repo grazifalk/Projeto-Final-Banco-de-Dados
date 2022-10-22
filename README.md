@@ -1,4 +1,4 @@
 ## 📝 Projeto Final - Banco de Dados
 
-#### 📦 diagrama
-#### 📦 arquivo sql
+#### 📊 diagrama
+#### 🎲 arquivo sql
